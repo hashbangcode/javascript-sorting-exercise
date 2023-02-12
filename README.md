@@ -10,7 +10,7 @@ You must be running at least node version 14.0 to allow the Jest testing library
 
 - bubleSort.js - A file ready to have the bubble sort algorithm implemented.
 - quickSort.js - A file ready to have the quick sort algorithm implemented.
-__test__ - A directory containing test files. The testData.js file is used to store testing data.
+- \_\_test\_\_ - A directory containing test files. The testData.js file is used to store testing data.
 
 ## Usage
 
