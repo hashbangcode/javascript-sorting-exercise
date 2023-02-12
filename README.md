@@ -1,6 +1,14 @@
 # Javascript Sorting Algorithms Exercise
 
-This 
+This project sets up an environment ready for two sorting algorithms to be created.
+
+The algorithms are as follows:
+
+### Bubble Sort
+This algorithm works by running through the array and swapping a value for the next value along if that value is less than the current value. After the first run through the highest value in the array will be at the end of the array. It therefore must run through the array once for every item in the array, so it has a low efficiency.
+
+### Quick Sort
+This algorithm works by splitting the array into smaller and smaller pieces eventually merging the array back together again at the end. It does this by first finding a middle point and then spitting the array depending on if the current value is higher or lower than the middle value. It then recursively calls itself in order to do the same to each section of the array before rebuilding the sorted array and returning it.
 
 ## Requirements
 
