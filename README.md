@@ -1,4 +1,4 @@
-# Javascript Sorting Algorithms Exercise
+# JavaScript Sorting Algorithms Exercise
 
 This project sets up an environment ready for two sorting algorithms to be created.
 
